@@ -1,0 +1,3 @@
+J’ai fait la partie 1 avec l’aide de google et de https://www.freeformatter.com/xpath-tester.html
+
+Pour la partie 2 j’ai fait les trois premières questions, pour la doc api j’ai utilisé Swagger.
